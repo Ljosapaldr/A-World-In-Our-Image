@@ -1,1 +1,1 @@
-A river drainage basin in the east. It is best known for its plentiful [[tin]] deposits. In the [[Oceanic Bronze Age]] [[Runu]]was the dominant language in the area.
+The river drainage basin of the [[Sairdo River]]. It is best known for its plentiful [[tin]] deposits. In the [[Oceanic Bronze Age]] [[Runu]]was the dominant language in the area.

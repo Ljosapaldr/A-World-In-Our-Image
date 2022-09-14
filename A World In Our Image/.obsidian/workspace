@@ -10,32 +10,6 @@
           "type": "graph",
           "state": {}
         }
-      },
-      {
-        "id": "a5801065bc6323e4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conlanging/Sound Changes/Proto West.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7d77ffcffc4985b0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Conlanging/Languages/Kwant.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -99,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conlanging/Languages/Kwant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +119,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7d77ffcffc4985b0",
+  "active": "9767c00d956a578a",
   "lastOpenFiles": [
-    "Conlanging/Languages/Kwand.md",
-    "Conlanging/Sound Changes/Proto West.md",
-    "Conlanging/Languages/Kvoen.md",
-    "Conlanging/Languages/Isera.md",
-    "Conlanging/Languages/Naata.md",
-    "Conlanging/Languages/North West Panat.md",
-    "Conlanging/Languages/North East Panat.md",
-    "Conlanging/Languages/Repa.md",
-    "Conlanging/Languages/Galis.md",
-    "Conlanging/Languages/Batan.md"
+    "Zuhr River.md",
+    "Rivers.md",
+    "river.md",
+    "Sairdo River.md",
+    "Sairdo Basin.md",
+    "Baetwlic.md",
+    "Oceanic Bronze Age.md",
+    "Taangwd.md",
+    "Conlanging/Sound Changes/Old Panatigh.md",
+    "Conlanging/Sound Changes/Middle Panatigh.md"
   ]
 }

@@ -1,30 +1,38 @@
 [A World In Our Image]
 #conlanging
-C=pbtdʈɖṭḍcɟkgqɢʔfvɸβszθðʃʒšžʂʐṣẓɕʑçʝśźxɣȟχʁħʕhɦḥʦʣčǰmɱnɳṇɲñŋɴⱱlrɾɬɮɽɭṛḷʎʟʀwʍʋɥɹɻjɰ
+C=pbtdʈɖṭḍcɟkgqɢʔfvɸβszθðʃʒšžʂʐṣẓɕʑçʝśźxɣȟχʁħʕhɦḥʦʣčǰmɱnɳṇɲñŋɴⱱlrɾɬɮɽɭṛḷʎʟʀwʍʋɥɹɻjɰɓɗɠƙƭƥꝁŧᵽҕƈғꞓ
 
-V=oʌɔɒäɛæɐeiɯɨʉaəɐuɑ
+V=oʌɔɒäɛæɐeiɯɨʉaəɐuɑy
 
-U=oɔɒuøʉy
+U=oɔɒuøʉyœ
 
 O=ʌäɛæɐeɯɨaəɐɑ
 
-I=äɛæeiɪ
+I=ɛæeiɪayʏɪøœɶ
 
-S=dktgcɟbp
+Y=iyɨʉɯuɪʏʊ
 
-Ȿ=ktpc
+S=dktgcɟbpƀđǥɓɗɠƙƭƥꝁŧᵽҕƈғꞓ
 
-Ꞩ=gdbɟ
+Ȿ=ktpcƙƭƥꝁŧᵽƈꞓ
 
-F=θfvxhɸβ
+Ꞩ=gdbɟƀđǥɓɗɠҕғ
 
-B=pbfvɸβmɱⱱwʍʋɥʙ̥ʙ
+F=ɸβfvθðçʝxɣχʁh
 
-Ƀ=bvβmwʋ
+B=pbfvɸβmɱⱱwʍʋɥʙ̥ʙƀɓᵽƥ
 
-N=mnŋ
+Ƀ=pfɸʍᵽƥ
 
-T=tdszθðʃʒšžʦʣčǰnlrɾɬɮɹ
+Ɓ=bvβmwʋƀɓ
+
+N=mnŋɲ
+
+T=tdszθðʃʒšžʦʣčǰnlrɾɬɮɹđɗƭŧ
+
+Ŧ=tsθʃšʦčɬƭŧ
+
+Ƭ=dzðʒžʣǰnlrɾɮɹđɗ
 
 L=lɮɬ
 
@@ -34,13 +42,17 @@ R=rɾʀɹ
 
 A=uaɐɛ
 
-Z=szʃʒ
+Z=szʃʒʂʐɕʑ
 
-G=kgxɣȟŋʟɰw
+Ƶ=sʃʂɕ
 
-Ꝅ=kxʍ
+Ⱬ=zʒʐʑ
 
-Ǥ=wgɣȟŋʟɰ
+G=kgxɣȟŋʟɰwɠǥƙꝁ
+
+Ꝅ=kxʍƙꝁ
+
+Ǥ=wgɣȟŋʟɰɠǥ
 
 Q=qɢχʁɴʀ
 

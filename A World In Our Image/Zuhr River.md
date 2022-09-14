@@ -1,1 +1,1 @@
-An enourmous river snaking through the west. Traditionally it is divided into three sections; the [[Upper Zuhr]], [[Middle Zuhr]] and [[Lower Zuhr]]. In the [[Oceanic Bronze Age]] it was occupied by primarily [[Naata]], [[Oskant]] and [[Baetwlic]] speaking cultures.
+An enourmous [[rivers|river]] snaking through the west. Traditionally it is divided into three sections; the [[Upper Zuhr]], [[Middle Zuhr]] and [[Lower Zuhr]]. In the [[Oceanic Bronze Age]] it was occupied by primarily [[Naata]], [[Oskant]] and [[Baetwlic]] speaking cultures.
