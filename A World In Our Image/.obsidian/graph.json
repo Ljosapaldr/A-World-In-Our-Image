@@ -4,19 +4,41 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#KaandLanguage",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#PanatLanguages",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0,
+  "showArrow": true,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.48205128205128,
+  "lineSizeMultiplier": 0.811965811965812,
+  "collapse-forces": true,
+  "centerStrength": 0.247863247863248,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 223,
-  "scale": 0.28710820679714827,
+  "scale": 0.0743147062680648,
   "close": false
 }

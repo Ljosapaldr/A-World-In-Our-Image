@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "59b47bcef56d6c8f",
+        "id": "9767c00d956a578a",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -12,12 +12,25 @@
         }
       },
       {
-        "id": "ee031eba2cd39c46",
+        "id": "a5801065bc6323e4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Åns.md",
+            "file": "Conlanging/Sound Changes/Proto West.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7d77ffcffc4985b0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Conlanging/Languages/Kwant.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Åns.md",
+                "file": "Conlanging/Languages/Kwant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +146,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "59b47bcef56d6c8f",
+  "active": "7d77ffcffc4985b0",
   "lastOpenFiles": [
-    "Wan.md",
-    "Llan.md",
-    "Lon.md",
-    "Runu.md",
-    "Sairdo Basin.md",
-    "Åns.md",
-    "tin.md",
-    "Oceanic Bronze Age.md",
-    "Conlanging/Languages/Naguh.md",
-    "Conlanging/Languages/Kwe.md"
+    "Conlanging/Languages/Kwand.md",
+    "Conlanging/Sound Changes/Proto West.md",
+    "Conlanging/Languages/Kvoen.md",
+    "Conlanging/Languages/Isera.md",
+    "Conlanging/Languages/Naata.md",
+    "Conlanging/Languages/North West Panat.md",
+    "Conlanging/Languages/North East Panat.md",
+    "Conlanging/Languages/Repa.md",
+    "Conlanging/Languages/Galis.md",
+    "Conlanging/Languages/Batan.md"
   ]
 }
