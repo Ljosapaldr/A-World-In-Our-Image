@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0ca92fa7012b0169",
+        "id": "59b47bcef56d6c8f",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
+        }
+      },
+      {
+        "id": "ee031eba2cd39c46",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Åns.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Åns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,11 +131,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0ca92fa7012b0169",
+  "active": "59b47bcef56d6c8f",
   "lastOpenFiles": [
-    "Conlanging/Languages.md"
+    "Wan.md",
+    "Llan.md",
+    "Lon.md",
+    "Runu.md",
+    "Sairdo Basin.md",
+    "Åns.md",
+    "tin.md",
+    "Oceanic Bronze Age.md",
+    "Conlanging/Languages/Naguh.md",
+    "Conlanging/Languages/Kwe.md"
   ]
 }
